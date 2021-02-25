@@ -1,5 +1,4 @@
 
-#function facto = find_fac_func()
 num = input("Of what number do you want to know the factorial? ")   #Prompt for Factorial number calculation
 
 facto_result = 1
